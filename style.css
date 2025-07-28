@@ -64,30 +64,30 @@ button#clear:hover {
 }
 
 button#add {
-  background-color: #00ff04;
+  background-color: rgb(255, 153, 0);
   color: rgb(0, 0, 0);
 }
 
 button#add:hover {
-  background-color: #007a14;
+  background-color: #965800;
 }
 
 button#sub {
-  background-color: #ffea00;
+  background-color: rgb(255, 153, 0);
   color: rgb(0, 0, 0);
 }
 
 button#sub:hover {
-  background-color: #938900;
+  background-color: #965800;
 }
 
 button#mul {
-  background-color: rgb(62, 187, 255);
+  background-color: rgb(255, 153, 0);
   color: rgb(0, 0, 0);
 }
 
 button#mul:hover {
-  background-color: #2d4dff;
+  background-color: #965800;
 }
 
 button#div {
