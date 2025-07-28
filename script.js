@@ -17,14 +17,12 @@ const buttons = {
   div: '/'
 };
 
-// Add event listeners to number/operator buttons
 for (let id in buttons) {
   document.getElementById(id).addEventListener('click', () => {
     display.value += buttons[id];
   });
 }
 
-// Handle calculation
 document.getElementById('calc').addEventListener('click', () => {
   try {
     display.value = eval(display.value);
@@ -33,7 +31,6 @@ document.getElementById('calc').addEventListener('click', () => {
   }
 });
 
-// Clear display
 document.getElementById('clear').addEventListener('click', () => {
   display.value = '';
 });
