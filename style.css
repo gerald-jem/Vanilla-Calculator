@@ -65,7 +65,7 @@ button#clear:hover {
 
 button#add {
   background-color: rgb(255, 153, 0);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 button#add:hover {
@@ -74,7 +74,7 @@ button#add:hover {
 
 button#sub {
   background-color: rgb(255, 153, 0);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 button#sub:hover {
@@ -83,7 +83,7 @@ button#sub:hover {
 
 button#mul {
   background-color: rgb(255, 153, 0);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 button#mul:hover {
@@ -92,7 +92,7 @@ button#mul:hover {
 
 button#div {
   background-color: rgb(255, 153, 0);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 button#div:hover {
