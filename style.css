@@ -64,39 +64,17 @@ button#clear:hover {
   background-color: #bb0000;
 }
 
-button#add {
-  background-color: rgb(255, 153, 0);
-  color: white;
-;
-}
-
-button#add:hover {
-  background-color: #965800;
-}
-
-button#sub {
-  background-color: rgb(255, 153, 0);
-  color: white;
-}
-
-button#sub:hover {
-  background-color: #965800;
-}
-
-button#mul {
-  background-color: rgb(255, 153, 0);
-  color: white;
-}
-
-button#mul:hover {
-  background-color: #965800;
-}
-
+button#add,
+button#sub,
+button#mul,
 button#div {
   background-color: rgb(255, 153, 0);
   color: white;
 }
 
+button#add:hover,
+button#sub:hover,
+button#mul:hover,
 button#div:hover {
   background-color: #965800;
 }
